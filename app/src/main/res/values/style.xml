@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DatePickerDialogTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="colorAccent">#759AB6</item>
+        <item name="android:background">@color/blue</item>
+        <item name="android:colorButtonNormal">#52ADD6</item>
+    </style>
+
+
+    <style name="CustomTimePickerDialog" parent="android:Theme.Holo.Light.Dialog.NoActionBar">
+        <item name="android:background">@color/blue</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:colorAccent">#759AB6</item>
+    </style>
+
+
+</resources>
